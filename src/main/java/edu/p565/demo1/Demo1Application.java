@@ -1,13 +1,13 @@
-package edu.iu.p565.customerservice;
+package edu.p565.demo1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CustomerserviceApplication {
+public class Demo1Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CustomerserviceApplication.class, args);
+		SpringApplication.run(Demo1Application.class, args);
 	}
 
 }

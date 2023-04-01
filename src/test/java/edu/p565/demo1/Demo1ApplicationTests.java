@@ -1,10 +1,10 @@
-package edu.iu.p565.customerservice;
+package edu.p565.demo1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CustomerserviceApplicationTests {
+class Demo1ApplicationTests {
 
 	@Test
 	void contextLoads() {
